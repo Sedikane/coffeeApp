@@ -1,0 +1,68 @@
+page-home {
+    ion-input{
+        text-align: center;
+        left: 30%;
+    }
+    #line{
+        border-bottom: 5px solid;
+    }
+    border-bottom: 10ps solid;
+        background-color: brown;
+    hr{
+        border-bottom: 10ps solid;
+        background-color: brown;
+    }
+    ion-navbar{
+        text-align: center;
+    }
+    .myInput{
+       
+        ion-label{
+            text-align: center;
+            ion-input{
+                text-align: center;
+                border-bottom: 2px solid brown;
+            }
+        }
+
+    }
+    .heading{
+        color: brown;
+        text-align: center;
+    }
+    .quant{
+        color: brown;
+        text-align: center;
+    }
+    ion-item{
+        text-align: center;
+    }
+    .summ{
+        text-align: center;
+        color: brown;
+    }
+    .btn1{
+        text-align: center;
+        button{
+            text-align: center;
+            width: 50%;
+            background-color: lightgray;
+            text-align: center;
+            color: brown;
+            left: 30%;
+        }
+    }
+    .secbtns{
+        color: brown;
+    
+        button{
+            text-align: center;
+            width: 50%;
+            background-color: lightgray;
+            color: brown;
+            left: 30%;
+        }
+        
+    }
+
+}
